@@ -16,3 +16,5 @@ pip install flask flask-sqlalchemy flask-wtf python-dotenv
 - 
 - CSS: https://www.w3schools.com/css/css_margin.asp
 - HTML: https://www.w3schools.com/tags/tag_input.asp
+
+### Flask tutorial:  https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world

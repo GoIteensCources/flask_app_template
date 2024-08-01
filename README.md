@@ -7,9 +7,19 @@
 -  Flask-Login
 -  FLask-restful
 
+## Залежнеості
 ```sh 
-pip install flask flask-sqlalchemy flask-wtf flask-login flask-restful python-dotenv
+pip install -r requrnements.txt
 ```
+
+## Запуск проекту
+```sh 
+python3 run.py
+```
+
+## Створити ".env"
+
+
 ## Documentation:
 
 - Flask: https://www.geeksforgeeks.org/flask-http-method/?ref=lbp

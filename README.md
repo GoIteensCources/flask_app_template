@@ -28,7 +28,7 @@ python3 run.py
 - Flask-Login: https://flask-login.readthedocs.io/en/latest/#
 - Flask-RestFull: https://flask-restful.readthedocs.io/en/latest/quickstart.html
 
-- 
+
   
 - CSS: https://www.w3schools.com/css/css_margin.asp
 - HTML: https://www.w3schools.com/tags/tag_input.asp
